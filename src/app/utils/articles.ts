@@ -4,7 +4,7 @@ export const technologyArticles = [
     title: "The Future of Artificial Intelligence",
     excerpt:
       "Exploring the advancements and future potential of AI in various industries",
-    imageUrl: "https://via.placeholder.com/800x400?text=AI+Future",
+    imageUrl: "/images/ai-future.jpg",
     date: "2024-08-01",
     category: "Technology",
     content:
@@ -15,7 +15,7 @@ export const technologyArticles = [
     title: "5G Networks: Revolutionizing Connectivity",
     excerpt:
       "How 5G technology is changing the way we connect and communicate.",
-    imageUrl: "https://via.placeholder.com/800x400?text=5G+Networks",
+    imageUrl: "/images/5g-networks.jpg",
     date: "2024-08-05",
     category: "Technology",
     content:
@@ -26,7 +26,7 @@ export const technologyArticles = [
     title: "The Rise of Quantum Computing",
     excerpt:
       "Understanding the principles and applications of quantum computers.",
-    imageUrl: "https://via.placeholder.com/800x400?text=Quantum+Computing",
+    imageUrl: "/images/quantum-computing.jpg",
     date: "2024-08-03",
     category: "Technology",
     content:
@@ -36,7 +36,7 @@ export const technologyArticles = [
     id: "cybersecurity-trends",
     title: "Cybersecurity Trends in 2024",
     excerpt: "The latest trends and challenges in cybersecurity.",
-    imageUrl: "https://via.placeholder.com/800x400?text=Cybersecurity",
+    imageUrl: "/images/cybersecurity-trends.jpg",
     date: "2024-08-04",
     category: "Technology",
     content:
@@ -47,7 +47,7 @@ export const technologyArticles = [
     title: "Blockchain Technology Explained",
     excerpt:
       "An overview of blockchain technology and its potential applications.",
-    imageUrl: "https://via.placeholder.com/800x400?text=Blockchain",
+    imageUrl: "/images/blockchain-technology.jpg",
     date: "2024-08-02",
     category: "Technology",
     content:
@@ -58,7 +58,7 @@ export const technologyArticles = [
     title: "The Power of Cloud Computing",
     excerpt:
       "How cloud computing is transforming the way we store and access data.",
-    imageUrl: "https://via.placeholder.com/800x400?text=Cloud+Computing",
+    imageUrl: "/images/cloud-computing.jpg",
     date: "2024-08-06",
     category: "Technology",
     content:
@@ -68,7 +68,7 @@ export const technologyArticles = [
     id: "internet-of-things",
     title: "The Internet of Things: Connecting the World",
     excerpt: "Exploring the impact of IoT on everyday life and industries.",
-    imageUrl: "https://via.placeholder.com/800x400?text=IoT",
+    imageUrl: "/images/internet-of-things.jpg",
     date: "2024-08-07",
     category: "Technology",
     content:
@@ -81,7 +81,7 @@ export const healthArticles = [
     id: "mental-health-awareness",
     title: "Mental Health Awareness: Breaking the Stigma",
     excerpt: "Raising awareness and promoting mental health in today's society",
-    imageUrl: "https://via.placeholder.com/800x400?text=Mental+Health",
+    imageUrl: "/images/mental-health-awareness.jpg",
     date: "2024-08-02",
     category: "Health",
     content:
@@ -91,7 +91,7 @@ export const healthArticles = [
     id: "fitness-tips",
     title: "10 Fitness Tips for a Healthier You",
     excerpt: "Simple and effective tips to improve your fitness",
-    imageUrl: "https://via.placeholder.com/800x400?text=Fitness+Tips",
+    imageUrl: "/images/fitness-tips.jpg",
     date: "2024-08-06",
     category: "Health",
     content:
@@ -101,7 +101,7 @@ export const healthArticles = [
     id: "healthy-eating",
     title: "The Benefits of Healthy Eating",
     excerpt: "How a balanced diet can improve your overall health",
-    imageUrl: "https://via.placeholder.com/800x400?text=Healthy+Eating",
+    imageUrl: "/images/healthy-eating.jpg",
     date: "2024-08-03",
     category: "Health",
     content:
@@ -111,7 +111,7 @@ export const healthArticles = [
     id: "stress-management",
     title: "Stress Management Techniques",
     excerpt: "Practical strategies to reduce and manage stress",
-    imageUrl: "https://via.placeholder.com/800x400?text=Stress+Management",
+    imageUrl: "/images/stress-management.jpg",
     date: "2024-08-04",
     category: "Health",
     content:
@@ -121,7 +121,7 @@ export const healthArticles = [
     id: "sleep-hygiene",
     title: "Improving Sleep Hygiene for Better Rest",
     excerpt: "Tips for better sleep and overall well-being",
-    imageUrl: "https://via.placeholder.com/800x400?text=Sleep+Hygiene",
+    imageUrl: "/images/sleep-hygiene.jpg",
     date: "2024-08-01",
     category: "Health",
     content:
@@ -131,7 +131,7 @@ export const healthArticles = [
     id: "mindfulness-meditation",
     title: "The Power of Mindfulness Meditation",
     excerpt: "Practicing mindfulness for mental and emotional well-being",
-    imageUrl: "https://via.placeholder.com/800x400?text=Mindfulness+Meditation",
+    imageUrl: "/images/mindfulness-meditation.jpg",
     date: "2024-08-05",
     category: "Health",
     content:
@@ -141,7 +141,7 @@ export const healthArticles = [
     id: "yoga-benefits",
     title: "The Health Benefits of Yoga",
     excerpt: "Exploring the physical and mental benefits of yoga practice",
-    imageUrl: "https://via.placeholder.com/800x400?text=Yoga+Benefits",
+    imageUrl: "/images/yoga-benefits.jpg",
     date: "2024-08-07",
     category: "Health",
     content:
@@ -154,7 +154,7 @@ const travelArticles = [
     id: "sustainable-travel",
     title: "Sustainable Travel: Tips for Eco-Friendly Adventures",
     excerpt: "How to travel responsibly and reduce your environmental impact",
-    imageUrl: "https://via.placeholder.com/800x400?text=Sustainable+Travel",
+    imageUrl: "/images/sustainable-travel.jpg",
     date: "2024-08-03",
     category: "Travel",
     content:
@@ -165,7 +165,7 @@ const travelArticles = [
     title: "Bucket List Destinations to Visit in Your Lifetime",
     excerpt:
       "Discover the most iconic and breathtaking places around the world",
-    imageUrl: "https://via.placeholder.com/800x400?text=Bucket+List",
+    imageUrl: "/images/bucket-list-destinations.jpg",
     date: "2024-08-01",
     category: "Travel",
     content:
@@ -175,7 +175,7 @@ const travelArticles = [
     id: "cultural-experiences",
     title: "Cultural Experiences: Immersing Yourself in Local Traditions",
     excerpt: "How to embrace and appreciate diverse cultures while traveling",
-    imageUrl: "https://via.placeholder.com/800x400?text=Cultural+Experiences",
+    imageUrl: "/images/cultural-experiences.jpg",
     date: "2024-08-06",
     category: "Travel",
     content:
@@ -185,7 +185,7 @@ const travelArticles = [
     id: "adventure-travel",
     title: "Adventure Travel: Thrilling Activities for Adrenaline Junkies",
     excerpt: "Exciting and daring adventures for the thrill-seekers",
-    imageUrl: "https://via.placeholder.com/800x400?text=Adventure+Travel",
+    imageUrl: "/images/adventure-travel.jpg",
     date: "2024-08-02",
     category: "Travel",
     content:
@@ -195,7 +195,7 @@ const travelArticles = [
     id: "family-vacation-ideas",
     title: "Family Vacation Ideas for Memorable Getaways",
     excerpt: "Planning the perfect family-friendly vacation for all ages",
-    imageUrl: "https://via.placeholder.com/800x400?text=Family+Vacation",
+    imageUrl: "/images/family-vacation-ideas.jpg",
     date: "2024-08-05",
     category: "Travel",
     content:
@@ -206,7 +206,7 @@ const travelArticles = [
     title: "Road Trip Tips for a Fun and Safe Journey",
     excerpt:
       "Essential tips for a successful and enjoyable road trip adventure",
-    imageUrl: "https://via.placeholder.com/800x400?text=Road+Trip",
+    imageUrl: "/images/road-trip-tips.jpg",
     date: "2024-08-04",
     category: "Travel",
     content:
@@ -217,7 +217,7 @@ const travelArticles = [
     title: "Budget Travel: How to Explore the World on a Shoestring",
     excerpt:
       "Smart ways to travel on a budget without compromising on experiences",
-    imageUrl: "https://via.placeholder.com/800x400?text=Budget+Travel",
+    imageUrl: "/images/budget-travel.jpg",
     date: "2024-08-07",
     category: "Travel",
     content:
@@ -230,7 +230,7 @@ const lifestyleArticles = [
     id: "minimalist-living",
     title: "Minimalist Living: Simplify Your Life and Find Happiness",
     excerpt: "Embracing minimalism for a clutter-free and fulfilling lifestyle",
-    imageUrl: "https://via.placeholder.com/800x400?text=Minimalist+Living",
+    imageUrl: "/images/minimalist-living.jpg",
     date: "2024-08-05",
     category: "Lifestyle",
     content:
@@ -240,7 +240,7 @@ const lifestyleArticles = [
     id: "self-care-tips",
     title: "Self-Care Tips for a Healthier Mind and Body",
     excerpt: "Practical self-care strategies to prioritize your well-being",
-    imageUrl: "https://via.placeholder.com/800x400?text=Self-Care+Tips",
+    imageUrl: "/images/self-care-tips.jpg",
     date: "2024-08-02",
     category: "Lifestyle",
     content:
@@ -250,7 +250,7 @@ const lifestyleArticles = [
     id: "work-life-balance",
     title: "Achieving Work-Life Balance: Strategies for Success",
     excerpt: "Balancing career and personal life for overall well-being",
-    imageUrl: "https://via.placeholder.com/800x400?text=Work-Life+Balance",
+    imageUrl: "/images/work-life-balance.jpg",
     date: "2024-08-07",
     category: "Lifestyle",
     content:
@@ -261,7 +261,7 @@ const lifestyleArticles = [
     title:
       "Building Healthy Relationships: Tips for Connection and Communication",
     excerpt: "Nurturing positive and meaningful relationships in your life",
-    imageUrl: "https://via.placeholder.com/800x400?text=Healthy+Relationships",
+    imageUrl: "/images/healthy-relationships.jpg",
     date: "2024-08-01",
     category: "Lifestyle",
     content:
@@ -271,7 +271,7 @@ const lifestyleArticles = [
     id: "stress-relief-techniques",
     title: "Stress Relief Techniques: Finding Calm in the Chaos",
     excerpt: "Practical methods to reduce stress and promote relaxation",
-    imageUrl: "https://via.placeholder.com/800x400?text=Stress+Relief",
+    imageUrl: "/images/stress-relief-techniques.jpg",
     date: "2024-08-03",
     category: "Lifestyle",
     content:
@@ -281,7 +281,7 @@ const lifestyleArticles = [
     id: "mindful-living",
     title: "The Art of Mindful Living: Embracing the Present Moment",
     excerpt: "Living mindfully to enhance awareness and appreciation of life",
-    imageUrl: "https://via.placeholder.com/800x400?text=Mindful+Living",
+    imageUrl: "/images/mindful-living.jpg",
     date: "2024-08-06",
     category: "Lifestyle",
     content:

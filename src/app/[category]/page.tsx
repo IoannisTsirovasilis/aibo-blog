@@ -65,7 +65,9 @@ export default function CategoryPageWithPagination({
         </button>
         <button
           onClick={handleNextPage}
-          disabled={currentPage === Math.ceil(articles.length / pageSize)}
+          disabled={
+            currentPage === Math.ceil(categoryArticles.length / pageSize)
+          }
           className="px-4 py-2 rounded disabled:opacity-50"
         >
           Next
